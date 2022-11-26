@@ -68,33 +68,5 @@ void str_concat(char des[], char src[])
     des[i] = '\0';
 }
 
-/* Sample Output:
-1.
-$ cc prog10.c
-$ ./a.out
 
-Enter a string :rainbow
-The length of rainbow is 7
 
-Enter two strings for string compare :rain
-rainbow
-String "rain" is less than string "rainbow"
-
-Enter two strings for string concatenation :rain
-bow
-The string after concatenation is "rainbow"
-
-2.
-$ ./a.out
-
-Enter a string :thinkpad
-The length of thinkpad is 8
-
-Enter two strings for string compare :thinkpad
-think
-String "thinkpad" is greater than string "think"
-
-Enter two strings for string concatenation :think
-pad
-The string after concatenation is "thinkpad"
-*/
