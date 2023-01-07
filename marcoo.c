@@ -1,3 +1,4 @@
+//program to find the largest number using macro function
 #include <stdio.h>
 
 #define MAX(x, y) ((x > y) ? x : y)
