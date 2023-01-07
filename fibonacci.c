@@ -29,9 +29,4 @@ int main()
 
     return 0;
 }
-/*for (i=3;i<=n;i++)
-pritnf("%d",nextterm);
-t1=t2;
-t2=nextterm;
-nexterm=t1+t1;
-*/
+
