@@ -22,3 +22,4 @@ int btod(int bin)
         return (bin % 10 + btod(bin / 10) * 2);
     }
 }
+
