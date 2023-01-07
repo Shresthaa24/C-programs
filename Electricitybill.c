@@ -27,3 +27,4 @@ int main()
     printf("name=%s and units consumed = %fand totalcharge per unit= %f ", name, uc, total);
     return 0;
 }
+
