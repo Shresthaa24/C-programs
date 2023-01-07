@@ -1,3 +1,4 @@
+//program to find the largest digit in the array
 #include <stdio.h>
 int largest(int list[], int n);
 int main()
